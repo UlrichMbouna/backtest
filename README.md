@@ -34,7 +34,7 @@ L’application permet de gérer les étudiants, les tuteurs, et d’effectuer u
 
 ---
 <!-- env -->
-Cree la base de donnee tutoringdb
+Cree la base de donnee: tutoringdb
 
 DB_NAME=tutoringdb
 DB_USER=root
